@@ -37,17 +37,7 @@
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">
 Click me to display Date and Time.</button>
-  $.ajax({
-  url: "/api/getWeather",
-  data: {
-    zipcode: 73019
-  },
-  success: function( result ) {
-    $( "#weather-temp" ).html( "<strong>" + result + "</strong> degrees" );
-  }
-});
-
-<p id="demo"></p>
+  <p id="demo"></p>
 
 </body>
 </html> 
