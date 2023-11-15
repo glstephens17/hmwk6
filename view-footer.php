@@ -51,24 +51,7 @@
             }, 3000);
         }
     </script>
-    <script>
-        const config = {
-  type: 'doughnut',
-  data: data,
-  options: {
-    responsive: true,
-    plugins: {
-      legend: {
-        position: 'top',
-      },
-      title: {
-        display: true,
-        text: 'Chart.js Doughnut Chart'
-      }
-    }
-  },
-};</script>
-    <!DOCTYPE html>
+        <!DOCTYPE html>
 <html>
 <body>
 
@@ -150,8 +133,6 @@ function remove(item) {
   }
 }
 </script>
-import { TransitionGroup } from 'vue'
-
 <template>
   <button @click="insert">insert at random index</button>
   <button @click="reset">reset</button>
