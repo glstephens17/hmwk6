@@ -47,10 +47,6 @@ Click me to display Date and Time.</button>
 
 <p id="demo"></p>
 
-<script>
-document.getElementById("demo").innerHTML = "My First JavaScript";
-</script>
-
 </body>
 </html>
         <!DOCTYPE html>
