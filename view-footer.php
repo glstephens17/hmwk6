@@ -8,20 +8,10 @@
     <script src="https://cdn.jsdelivr.net/npm/vue@3.0.11/dist/vue.global.prod.js" integrity="sha384-CJxHo8xWz1E6q3g4IeBekp1wlANd0qLEmhaMDuoIr2FQ8Z9pM+1qCUz98DJM3pQx" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/lodash-es@4.17.21/index.js"></script>
 </head>
-<body>
-    <!-- Your HTML content here -->
-
-    <script>
-        // Your JavaScript code here
-    </script>
-</body>
-</html>
 
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-rbs5fQKFKaFJl/M6zP5Z0qz8M/6NrQ4tsJAcOT6LlXTR+o7U1vj3I2tHW+nTuP5T" crossorigin="anonymous">
-<script src="https://cdn.jsdelivr.net/npm/vue@3.0.11/dist/vue.global.prod.js" integrity="sha384-CJxHo8xWz1E6q3g4IeBekp1wlANd0qLEmhaMDuoIr2FQ8Z9pM+1qCUz98DJM3pQx" crossorigin="anonymous"></script>
 
     <title>JavaScript Example</title>
     <style>
