@@ -56,6 +56,37 @@
 const d = new Date(100000000000);
 document.getElementById("demo").innerHTML = d;
 </script>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Button Example</title>
+</head>
+<body>
+
+<script>
+// Function to be executed when the button is clicked
+function handleClick() {
+    alert('Button clicked!'); // You can replace this with your desired action
+}
+
+// Create a button element
+var button = document.createElement('button');
+
+// Set the button text
+button.textContent = 'Click Here';
+
+// Add a click event listener to the button
+button.addEventListener('click', handleClick);
+
+// Append the button to the body
+document.body.appendChild(button);
+</script>
+
+</body>
+</html>
+
 
 </body>
 </html>
