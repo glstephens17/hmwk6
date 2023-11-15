@@ -2,7 +2,7 @@
 $pageTitle = "Home";
 include "view-header.php";
 ?>
-    <h1>JavaScript Examples</h1>
+    <h1>New JavaScript Libraries</h1>
 <?php
 include "view-footer.php";
 ?>
