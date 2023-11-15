@@ -8,7 +8,6 @@
     <script src="https://cdn.jsdelivr.net/npm/vue@3.0.11/dist/vue.global.prod.js" integrity="sha384-CJxHo8xWz1E6q3g4IeBekp1wlANd0qLEmhaMDuoIr2FQ8Z9pM+1qCUz98DJM3pQx" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/lodash-es@4.17.21/index.js"></script>
 
-
 <!DOCTYPE html>
 <html>
 
@@ -95,8 +94,6 @@ document.body.appendChild(button);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Move Button Example</title>
-  </head>
-<body>
 
 <script>
 function handleClick() {
@@ -108,12 +105,7 @@ button.textContent = 'Click Here';
 button.addEventListener('click', handleClick);
 document.body.appendChild(button);
 </script>
-
-</body>
-</html>
-
-</script>
-    <script setup>
+<script setup>
 import { shuffle as _shuffle } from 'lodash-es'
 import { ref } from 'vue'
 
