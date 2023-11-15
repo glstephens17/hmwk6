@@ -83,37 +83,6 @@ button.addEventListener('click', handleClick);
 // Append the button to the body
 document.body.appendChild(button);
 </script>
-    <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Move Button Example</title>
-    <style>
-        /* Add a style to move the button to the right */
-        button {
-            position: absolute;
-            right: 20px; /* You can adjust this value to move the button more or less to the right */
-            top: 20px; /* Adjust the top position if needed */
-        }
-    </style>
-</head>
-<body>
-
-<script>
-function handleClick() {
-    alert('Button clicked!');
-}
-
-var button = document.createElement('button');
-button.textContent = 'Click Here';
-button.addEventListener('click', handleClick);
-document.body.appendChild(button);
-</script>
-
-</body>
-</html>
-
 
 </body>
 </html>
