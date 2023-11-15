@@ -22,12 +22,6 @@
         <!DOCTYPE html>
         <!DOCTYPE html>
 <html>
-<body>
-        navbar.style.backgroundColor = '#e74c3c'; // You can use any color code here
-    });
-});
-
-  <body>
       <header>
         <nav>
           <a href="">Home</a>
