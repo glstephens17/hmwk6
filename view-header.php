@@ -17,7 +17,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/">HW5 Home</a>
+          <a class="nav-link active" aria-current="page" href="/">HW6 Home</a>
         </li>
         <!DOCTYPE html>
         <!DOCTYPE html>
@@ -53,19 +53,6 @@ document.getElementById("demo").innerHTML = "My First JavaScript";
 
 </body>
 </html>
-        <!DOCTYPE html>
-<html>
-<body>
-
-<h2>     Practice Makes Better</h2>
-
-<script>
-window.alert(JavaScript Practice);
-</script>
-
-</body>
-</html>
-        <!DOCTYPE html>
         <!DOCTYPE html>
       </ul>
     </div>
