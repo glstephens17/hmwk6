@@ -57,6 +57,31 @@ Click me to display Date and Time.</button>
 </body>
 </html>
         <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Change Page Color</title>
+</head>
+<body>
+
+<button onclick="changePageColor()">Change Page Color</button>
+
+<script>
+function changePageColor() {
+    // You can choose any color code here
+    var newColor = '#3498db';
+
+    // Change the background color of the entire page (body or html)
+    document.body.style.backgroundColor = newColor;
+    // or document.documentElement.style.backgroundColor = newColor;
+}
+</script>
+
+</body>
+</html>
+
+        <!DOCTYPE html>
       </ul>
     </div>
   </div>
