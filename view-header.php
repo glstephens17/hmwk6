@@ -23,13 +23,6 @@
         <!DOCTYPE html>
 <html>
 <body>
-  document.addEventListener('DOMContentLoaded', function () {
-    // Get the navbar element
-    var navbar = document.getElementById('navbar');
-
-    // Change the navbar color on click
-    navbar.addEventListener('click', function () {
-        // Change the color to a new one
         navbar.style.backgroundColor = '#e74c3c'; // You can use any color code here
     });
 });
