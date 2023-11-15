@@ -1,15 +1,6 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <body>
-      <header>
-        <nav>
-          <a href="">Home</a>
-          <a href="">Resources</a>
-          <a href="">Contacts</a>
-        </nav>
-      </header>      
-    </body>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?=$pageTitle?></title>
@@ -32,6 +23,15 @@
         <!DOCTYPE html>
 <html>
 <body>
+  <body>
+      <header>
+        <nav>
+          <a href="">Home</a>
+          <a href="">Resources</a>
+          <a href="">Contacts</a>
+        </nav>
+      </header>      
+    </body>
 
 <p id="demo">JavaScript can change the style of an HTML element.</p>
 
