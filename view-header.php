@@ -10,6 +10,11 @@
         <span id='2' onclick="color(this)" class='color clr2'></span>
         <span onclick="color(this)" class='color clr3'></span>
         <span onclick="color(this)" class='color clr4'></span>
+  function color(z) {
+      var a = getComputedStyle(z);
+      var b = a.backgroundColor;
+      document.getElementsByTagName(BODY"[0].style.backgroundColor=b;
+  }
         
       <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
