@@ -1,6 +1,19 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <body>
+      <header>
+        <nav>
+          <a href="">Home</a>a>
+          <a href="">Resources</a>a>
+          <a href="">Contacts</a>a>
+        </nav>
+      </header>
+      <div>
+        <p>lorem</p>
+      </div>
+      
+    </body>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?=$pageTitle?></title>
