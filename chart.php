@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <h1>Chart</h1>
 <div>
   <canvas id="Chart"></canvas>canvas>
