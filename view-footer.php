@@ -88,15 +88,7 @@ document.body.appendChild(button);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Move Button Example</title>
-    <style>
-        /* Add a style to move the button to the right */
-        button {
-            position: absolute;
-            right: 20px; /* You can adjust this value to move the button more or less to the right */
-            top: 20px; /* Adjust the top position if needed */
-        }
-    </style>
-</head>
+  </head>
 <body>
 
 <script>
