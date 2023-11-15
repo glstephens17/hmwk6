@@ -185,10 +185,3 @@ function remove(item) {
 
 </body>
 </html>
-
-
-</body>
-</html>
-
-</body>
-</html>
