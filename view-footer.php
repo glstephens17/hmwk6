@@ -51,7 +51,8 @@
             }, 3000);
         }
     </script>
-    <script>const config = {
+    <script>
+        const config = {
   type: 'doughnut',
   data: data,
   options: {
