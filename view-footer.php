@@ -7,11 +7,10 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-rbs5fQKFKaFJl/M6zP5Z0qz8M/6NrQ4tsJAcOT6LlXTR+o7U1vj3I2tHW+nTuP5T" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/vue@3.0.11/dist/vue.global.prod.js" integrity="sha384-CJxHo8xWz1E6q3g4IeBekp1wlANd0qLEmhaMDuoIr2FQ8Z9pM+1qCUz98DJM3pQx" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/lodash-es@4.17.21/index.js"></script>
-</head>
+
 
 <!DOCTYPE html>
 <html>
-<head>
 
     <title>JavaScript Example</title>
     <style>
@@ -32,7 +31,6 @@
         }
     </style>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
-</head>
 <body>
     <div class="container">
         <h2>JavaScript Alert</h2>
@@ -70,11 +68,9 @@ document.getElementById("demo").innerHTML = d;
 </script>
     <!DOCTYPE html>
 <html lang="en">
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Add Button Example</title>
-</head>
 <body>
 
 <script>
@@ -96,7 +92,6 @@ button.addEventListener('click', handleClick);
 document.body.appendChild(button);
     <!DOCTYPE html>
 <html lang="en">
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Move Button Example</title>
@@ -194,6 +189,7 @@ import { TransitionGroup } from 'vue'
 .fade-leave-active {
   position: absolute;
 }
+</head>
 </style>
 
 </body>
