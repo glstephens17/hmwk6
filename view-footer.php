@@ -137,6 +137,7 @@ function remove(item) {
   }
 }
 </script>
+import { TransitionGroup } from 'vue'
 
 <template>
   <button @click="insert">insert at random index</button>
