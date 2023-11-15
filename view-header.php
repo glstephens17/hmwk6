@@ -4,15 +4,11 @@
     <body>
       <header>
         <nav>
-          <a href="">Home</a>a>
-          <a href="">Resources</a>a>
-          <a href="">Contacts</a>a>
+          <a href="">Home</a>
+          <a href="">Resources</a>
+          <a href="">Contacts</a>
         </nav>
-      </header>
-      <div>
-        <p>lorem</p>
-      </div>
-      
+      </header>      
     </body>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
